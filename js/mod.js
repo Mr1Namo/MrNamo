@@ -1,13 +1,13 @@
 let modInfo = {
-	name: "The Modding Tree",
+	name: "The School Made Tree",
 	id: "mymod",
-	author: "",
-	pointsName: "points",
+	author: "Mr1Namo",
+	pointsName: "Matthew",
 	discordName: "",
 	discordLink: "",
 	initialStartPoints: new ExpantaNum (10), // Used for hard resets and new players
 	
-	offlineLimit: 1,  // In hours
+	offlineLimit: 10,  // In hours
 }
 
 // Set your version in num and name
